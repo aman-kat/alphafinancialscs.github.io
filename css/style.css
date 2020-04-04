@@ -632,6 +632,25 @@ body.section-switching.up .animation-block{
 	font-size:52px;
 	color:#303F9F;
 }
+#p_one{
+	float:left;
+	font-size:16px;
+	line-height:1.6em;
+	font-style:italic;
+	color:rgba(0,0,0,.4);
+	margin-right:15px;
+	margin-top:5px;
+}
+.contact-info > a{
+	font-size: 50px;
+	text-decoration: none;
+	color:#303F9F;
+	margin: 10px;
+}
+.contact-info > a:hover{
+	opacity: 0.65;
+	text-decoration: none;
+}
 .contact-info > p{
 	float:left;
 	font-size:16px;
